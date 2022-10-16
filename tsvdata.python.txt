@@ -1,0 +1,5 @@
+name        grade     batch
+Mr.Bosco    A++       python-22
+Alfa        A+        python-21
+Mr.Rotimi   A++       python-20
+SSY         A+        python-21
